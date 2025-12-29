@@ -139,7 +139,7 @@ EFCoreExamples/
 
 ### Global Requirements
 - .NET 9.0 SDK
-- Visual Studio 2022 (or any compatible IDE)
+- Visual Studio Code (or any compatible IDE)
 - EF Core CLI Tool: `dotnet tool install --global dotnet-ef`
 
 ### Database-Specific Requirements
